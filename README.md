@@ -1,5 +1,3 @@
-# nathaliachn.github.io
-
 ## Hi there!
 My name is Nathalia Chávez, I am a front - end developer.
 I am from Bolivia, but currently living in Santiago, Chile.
@@ -13,7 +11,6 @@ or you can **send me an email** to:  nathaliachn@gmail.com
 ## A little bit of me:
 - I graduated from **Laboratoria**, an intensive bootcamp specialized in JavaScript.
 
-![Laboratoria](https://emoji.slack-edge.com/T0NNB6T0R/laboratoria/2191ae22f5e4d0e6.jpg)
 
  **Things i use or code daily:** 
  
