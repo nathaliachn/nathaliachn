@@ -26,7 +26,7 @@ or you can **send me an email** to:  nathaliachn@gmail.com
 
 ## Stats
 
-![1](http://imgfz.com/i/kMuQV7W.png)
+![4](http://imgfz.com/i/F3kjDwo.png)
 ![2](http://imgfz.com/i/76snJ8o.png)
 ![3](http://imgfz.com/i/To01l9c.png)
-![4](http://imgfz.com/i/F3kjDwo.png)
+
