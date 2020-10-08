@@ -1,4 +1,4 @@
-## Hi there! ![rainbow](https://github.githubassets.com/images/icons/emoji/unicode/1f308.png)
+## Hi there! ![rainbow](https://a.slack-edge.com/production-standard-emoji-assets/10.2/google-medium/1f308.png)
 My name is Nathalia Chávez, I am a front - end developer.
 I am from Bolivia, but currently living in Santiago, Chile.
 
