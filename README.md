@@ -1,4 +1,4 @@
-## Hi there!
+## Hi there! ![rainbow](https://github.githubassets.com/images/icons/emoji/unicode/1f308.png)
 My name is Nathalia Chávez, I am a front - end developer.
 I am from Bolivia, but currently living in Santiago, Chile.
 
@@ -21,7 +21,7 @@ or you can **send me an email** to:  nathaliachn@gmail.com
 
 ![study](https://a.slack-edge.com/production-standard-emoji-assets/10.2/google-medium/1f4dd.png) Currently learning all about **UX/UX Design** and taking a specialized **React JS** course.
    
- - Fun facts: I'm a huge fan of **Harry Potter**, i love outdoors, cooking and animals!
+ **- Fun facts:** I'm a huge fan of Harry Potter, i love outdoors, craft beer, cooking and animals!
 
 
 ## Stats
